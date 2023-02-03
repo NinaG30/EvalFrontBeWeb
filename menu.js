@@ -1,4 +1,4 @@
-//Event toggle for menu button
+//Toggle event menu button
 btn.addEventListener("click", function () {
   let menu = document.getElementById("menu");
   if (menu.style.visibility == "hidden") {

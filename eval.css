@@ -80,6 +80,10 @@ section {
   margin: 5px;
 }
 
+.pages.active {
+background:red;
+}
+
 .pagesjs {
   width: 100%;
   margin: 5px;

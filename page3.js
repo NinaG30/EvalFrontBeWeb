@@ -1,3 +1,5 @@
+
+//permet d'appliquer du style CSS pour le "p" pour chaque option du menu select
 styleSelect.addEventListener("change", function(){
     let css1 = document.getElementById('css1');
     let css2 = document.getElementById('css2'); 
